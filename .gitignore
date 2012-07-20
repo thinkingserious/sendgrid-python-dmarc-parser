@@ -1,0 +1,6 @@
+venv
+dist
+build
+data
+config.ini
+*.pyc

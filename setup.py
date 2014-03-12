@@ -10,7 +10,7 @@ config = {
 	'download_url': '',
 	'author_email': 'elmer.thomas@sendgrid.com',
 	'version': '0.1',
-	'install_requires': ['nose', 'zipfile', 'sys', 'os', 'os.path', 'Flask', 'Flask-SQLAlchemy', 'Jinja2', 'Werkzeug', 'distribute', 'wsgiref', 'mysql-python', 'requests', 'simplejson', 'configobj', 'time'],
+	'install_requires': ['nose', 'Flask', 'Flask-SQLAlchemy', 'Jinja2', 'Werkzeug', 'distribute', 'wsgiref', 'mysql-python', 'requests', 'simplejson', 'configobj'],
 	'packages': ['dmarc_parser'],
 	'scripts': [],
 	'name': 'DMARC Parser'
